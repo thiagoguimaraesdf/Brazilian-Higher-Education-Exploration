@@ -3,11 +3,11 @@ This study seeks to organize and develop a basic analysis of higher education da
 
 For better organization and comprehension, this study is divided in 3 parts:
 
-Part 1 - Data Extraction: In dataextraction.ipynb, I bring a description of datasets used in the project, its sources and the path to download it. This post will be uploaded if future analysis demands new datasets.
+Part 1 - Data Extraction: The notebook bring a description of datasets used in the project, its sources and the path to download it. This post will be uploaded if future analysis demands new datasets.
 
-Part 2 - Data Cleaning: In datacleaning.ipynb, data is cleaned and column names standardized. The main goal is to have a comparable panel data. with annual information for courses, students, and institutions in the last decade.
+Part 2 - Data Cleaning: In this part data is cleaned and column names standardized. The main goal is to have a comparable panel data. with annual information for courses, students, and institutions in the last decade.
 
-Part 3 - Data Analysis: The analysis is subdivided into 6 sections. The first section, dataanalysis1.ipynb, analysis the historical panorama of higher education growth in Brazil, especially in the last 10 years. 
+Part 3 - Data Analysis: The analysis is subdivided into 6 sections. The first section, analysis the historical panorama of higher education growth in Brazil, especially in the last 10 years. 
 
 Some important considerations:
 
